@@ -1,0 +1,6 @@
+id,name,email,role,college,department,semester
+4a2f8b50-d4fb-40c2-9e8c-32b0a96f1b1a,Prof. Santhosh Kumar,teacher@school.edu,teacher,IIT Madras,Computer Science,
+9e5c4d60-7c2a-4318-80f2-7489ab1cd30b,Aarav Sharma,student1@school.edu,student,IIT Madras,Computer Science,6
+3f1b6a70-8b1e-450a-bf41-6923bc4dc50a,Diya Patel,student2@school.edu,student,IIT Madras,Computer Science,6
+c7d8e9f0-2a3b-4c5d-6e7f-8a9b0c1d2e3f,Kabir Singh,student3@school.edu,student,IIT Madras,Information Technology,4
+5b4a3c2d-1e0f-9a8b-7c6d-5e4f3a2b1c0d,Ananya Sen,student4@school.edu,student,IIT Madras,Mechanical Engineering,2

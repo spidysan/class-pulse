@@ -1,0 +1,6 @@
+question_text,option_a,option_b,option_c,option_d,correct_answer
+What is the purpose of Row Level Security (RLS) in Supabase?,A) To limit access to specific rows based on user role,B) To encrypt database backups,C) To speed up index scans,D) To disable right-clicks,A
+Which React hook is used to manage page load side-effects?,A) useState,B) useEffect,C) useContext,D) useMemo,B
+What is the primary role of the noise texture overlay in the anti-cheat canvas?,A) To speed up rendering frames,B) To disrupt automated OCR scanning,C) To encrypt the image pixels,D) To look aesthetically pleasing,B
+How does ClassPulse detect if a student left the active exam tab?,A) By listening to keypress events,B) By tracking visibilitychange and blur window events,C) By tracking mouse scroll speeds,D) By disabling the mouse cursor,B
+Which API is utilized to synthesize the tick sound without downloading audio files?,A) HTML5 Audio Element,B) Browser Web Audio API,C) Speech Synthesis API,D) Service Workers API,B
