@@ -1,6 +1,6 @@
-# ⚡ ClassPulse — Apple macOS Designed AI Classroom & Secure Exam Suite
+# ⚡ ClassPulse — AI Classroom & Secure Exam Suite
 
-ClassPulse is an elegant, premium, Apple macOS-styled web application built for modern classrooms. It integrates **live lectures audio transcription**, **automated AI quiz generation**, **real-time student response trackings**, and a **hardened anti-cheat live exam browser** to create a complete educational loop.
+ClassPulse is an elegant, premium,web application built for modern classrooms. It integrates **live lectures audio transcription**, **automated AI quiz generation**, **real-time student response trackings**, and a **hardened anti-cheat live exam browser** to create a complete educational loop.
 
 Designed with a sleek, minimal, glassmorphic layout, ClassPulse provides educators and students with a high-fidelity dashboard that feels like a native macOS app.
 
